@@ -94,3 +94,15 @@ JavaScript es un lenguaje en constante desarrollo, y nuevas características se 
   Ofrece una tabla detallada con las características del lenguaje y los motores que las admiten o no. Es una excelente referencia para verificar la compatibilidad de funciones específicas de JavaScript en diferentes entornos.
 
 Estas herramientas son esenciales para los desarrolladores que necesitan asegurarse de que sus aplicaciones funcionen correctamente en diferentes navegadores y motores de JavaScript.
+
+# Videojuegos en JavaScript
+
+JavaScript es un lenguaje versátil que se puede utilizar para desarrollar videojuegos, especialmente para plataformas web. A continuación, se presentan algunas plataformas y frameworks populares para el desarrollo de juegos en JavaScript:
+
+1. **Phaser** - Framework para juegos en HTML5.
+2. **PixiJS** - Biblioteca de renderizado 2D.
+3. **Three.js** - Biblioteca para gráficos 3D.
+4. **Babylon.js** - Motor de juegos 3D basado en WebGL.
+5. **ImpactJS** - Motor de juegos HTML5 para juegos 2D.
+
+Estas herramientas permiten a los desarrolladores crear juegos interactivos y visualmente atractivos que pueden ejecutarse directamente en el navegador.
