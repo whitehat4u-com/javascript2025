@@ -83,3 +83,25 @@ let result = a ^ b; // 0110 (6 en decimal)
 
 console.log(result); // Output: 6
 ```
+
+## 4. NOT ( `~` )
+
+El operador `~` invierte todos los bits de un número (complemento de uno). En JavaScript, los números son de 32 bits con signo, por lo que el resultado es `-(n+1)`.
+
+```js
+let a = 5; //  00000000 00000000 00000000 00000101 en binario
+let result = ~a; // 11111111 11111111 11111111 11111010 (-6 en decimal)
+
+console.log(result); // Output: -6
+```
+
+## 5. LEFT SHIFT ( `<<` )
+
+Desplaza los bits a la izquierda y rellena con ceros a la derecha.
+
+```js
+let a = 5; //  00000101 en binario
+let result = a << 2; // 00010100 (20 en decimal)
+
+console.log(result); // Output: 20
+```
