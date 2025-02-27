@@ -2,15 +2,15 @@
 
 ## 3 tipos de declaraciones:
 
-```
+```javascript
 // Función regular
 function suma(a, b) {
-    return a + b;
+  return a + b;
 }
 
 // Expresión de función
-const suma = function(a, b) {
-    return a + b;
+const suma = function (a, b) {
+  return a + b;
 };
 
 // Arrow function
@@ -109,16 +109,16 @@ Los puntos de interrupción son lugares en el código donde la ejecución se det
 
 Una vez que la ejecución se detiene en un punto de interrupción, puedes usar los controles de ejecución para avanzar paso a paso por el código. intenta seguir el resultado de las variables a y b en el siguiente codigo:
 
-```
+```javascript
 function suma(a, b) {
-    return a + b;
+  return a + b;
 }
 
 function calcular() {
-    const x = 5;
-    const y = 10;
-    const resultado = suma(x, y);
-    console.log(resultado);
+  const x = 5;
+  const y = 10;
+  const resultado = suma(x, y);
+  console.log(resultado);
 }
 
 calcular();
