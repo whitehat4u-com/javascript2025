@@ -58,3 +58,8 @@ console.log(sumar(2, 3)); // Output: 5
 // Ejemplo de uso:
 imprimirArbol(5);
 ```
+
+## Preguntas JS:
+
+1. Cual es el valor maximo de parametros a pasar en una function?
+2. Cual es el valor limite de ejecuciones en javascript?
