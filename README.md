@@ -2,9 +2,9 @@
 
 Aqui encuentras informacion de las clases, ejercicios, y algunos PDF de descarga gratis sobre parte del contenido del programa. Dale una estrella al proyecto y recibe gratis un regalo en tu correo electronico.
 
-# Clase 1:
+# Clases:
 
-Accede al directorio marcado con el numero # de la clase. Algunos clases no tienen contenido o material adicional.
+Accede al directorio marcado con el numero # de la clase dentro de cada semana. Cada video contiene numerales descritos en el formato del programa asociados en el video por temas o por clases (como en la semana 1)
 
 # Preguntas:
 
