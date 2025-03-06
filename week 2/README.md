@@ -88,3 +88,27 @@ https://es.wikipedia.org/wiki/Desarrollo_guiado_por_comportamiento
 - Usa `Object.assign` para crear un nuevo objeto `libroActualizado` donde el año sea modificado.
 
 
+# Lodash: Una librería utilitaria para JavaScript
+
+**Lodash** es una popular librería de JavaScript que proporciona funciones utilitarias para trabajar con arrays, objetos, strings y otros tipos de datos. Su objetivo es simplificar tareas comunes de programación, mejorar la legibilidad del código y evitar mutaciones innecesarias.
+
+## Características principales
+
+1. **Evita mutaciones**: Muchas funciones de Lodash son inmutables, lo que significa que no modifican los datos originales, sino que devuelven nuevos valores. Esto es especialmente útil para mantener la integridad de los datos en aplicaciones complejas.
+
+2. **Funciones utilitarias**: Lodash ofrece una amplia gama de funciones para manipular y transformar datos, como:
+   - `_.cloneDeep`: Para clonar objetos de forma profunda.
+   - `_.merge`: Para combinar objetos de manera recursiva.
+   - `_.debounce`: Para controlar la frecuencia de ejecución de funciones.
+   - `_.groupBy`: Para agrupar elementos de un array según un criterio.
+
+3. **Compatibilidad**: Lodash es compatible con navegadores modernos y entornos de Node.js, lo que la hace versátil para desarrollo frontend y backend.
+
+4. **Optimización de rendimiento**: Las funciones de Lodash están optimizadas para ser eficientes, lo que puede mejorar el rendimiento en comparación con soluciones manuales.
+
+5. **Modularidad**: Puedes importar solo las funciones que necesitas, reduciendo el tamaño del código final.
+
+## Enlace oficial
+Para más información, documentación y ejemplos, visita el sitio oficial de Lodash:  
+[**https://lodash.com/**](https://lodash.com/)
+
