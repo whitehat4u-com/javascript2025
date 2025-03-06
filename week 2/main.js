@@ -1,4 +1,19 @@
 // OBJETS:
+
 let user = {
-  name: "John",
-};
+    
+  }
+
+  let b = {};
+
+
+  console.log( user === b);
+
+ 
+
+
+ 
+
+
+
+

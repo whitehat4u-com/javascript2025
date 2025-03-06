@@ -43,4 +43,48 @@ https://es.wikipedia.org/wiki/Desarrollo_guiado_por_comportamiento
 - [Babel Loader](https://github.com/babel/babel-loader) – Cargador de Babel para Webpack.
 - [Webpack](https://webpack.js.org/) – Documentación oficial de Webpack.
 
-##
+# Practica Objetos:
+## Ejercicios de JavaScript: Manipulación de Objetos
+
+## Ejercicio 1: Verificar si un objeto está vacío
+## Crea un objeto vacío `obj`.
+## Escribe una función `estaVacio(obj)` que devuelva `true` si el objeto no tiene propiedades, y `false` en caso contrario.
+# Ejercicios de JavaScript: Manipulación de Objetos
+
+## Ejercicio 3: Crear una copia superficial de un objeto usando `Object.assign`
+- Crea un objeto `original` con varias propiedades.
+- Usa `Object.assign` para crear una copia superficial del objeto en una nueva variable `copia`.
+- Modifica una propiedad en `copia` y verifica si el cambio afecta al objeto `original`.
+
+## Ejercicio 4: Crear una copia profunda de un objeto usando `structuredClone`
+- Crea un objeto `original` con propiedades anidadas.
+- Usa `structuredClone` para crear una copia profunda del objeto en una nueva variable `copiaProfunda`.
+- Modifica una propiedad anidada en `copiaProfunda` y verifica si el cambio afecta al objeto `original`.
+
+## Ejercicio 5: Combinar dos objetos usando `Object.assign`
+- Crea dos objetos `obj1` y `obj2` con propiedades diferentes.
+- Usa `Object.assign` para combinar ambos objetos en un nuevo objeto `combinado`.
+- Imprime el objeto `combinado` para verificar el resultado.
+
+## Ejercicio 6: Verificar si un objeto tiene una propiedad específica
+- Crea un objeto `auto` con propiedades como `marca`, `modelo` y `año`.
+- Escribe una función `tienePropiedad(obj, prop)` que devuelva `true` si el objeto tiene la propiedad especificada, y `false` en caso contrario.
+
+## Ejercicio 7: Eliminar una propiedad de un objeto
+- Crea un objeto `usuario` con propiedades como `nombre`, `email` y `edad`.
+- Elimina la propiedad `edad` del objeto.
+- Imprime el objeto para verificar que la propiedad ha sido eliminada.
+
+## Ejercicio 8: Crear una copia de un objeto con propiedades adicionales
+- Crea un objeto `producto` con propiedades como `nombre` y `precio`.
+- Usa `Object.assign` para crear una copia del objeto y añadir una nueva propiedad `stock`.
+
+## Ejercicio 9: Clonar un objeto con métodos
+- Crea un objeto `calculadora` con métodos como `sumar` y `restar`.
+- Usa `structuredClone` para clonar el objeto y verifica si los métodos se clonan correctamente.
+
+## Ejercicio 10: Crear un objeto a partir de otro con propiedades modificadas
+- Crea un objeto `libro` con propiedades como `titulo`, `autor` y `año`.
+- Usa `Object.assign` para crear un nuevo objeto `libroActualizado` donde el año sea modificado.
+
+
