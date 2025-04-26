@@ -2,6 +2,8 @@
 
 # Ejercicios de JavaScript
 
+Referencia de IETF, definiciones reales en tecnologia, como nuestro diccionario de la real lengua española: https://datatracker.ietf.org/doc/html/rfc4627
+
 ## 1. Manipulación de funciones y uso de `new Date()`
 
 1. **Fecha personalizada**: Crea una función que reciba día, mes y año como parámetros y devuelva un objeto Date con esa fecha. Luego muestra la fecha en formato "DD/MM/AAAA".
@@ -13,6 +15,10 @@
 ## 2. Manipulación de JSON con `JSON.stringify()` y `JSON.parse()`
 
 1. **Convertir a JSON**: Crea un objeto que represente un libro (con título, autor y año) y conviértelo a formato JSON. Luego convierte ese JSON de vuelta a un objeto JavaScript.
+
+### hecho por whitehat4u.com
+
+En Colaboración de Jhon Guerrero whitehat4u
 
 2. **Almacenamiento local**: Crea un objeto con información de usuario (nombre, email, edad) y guárdalo en el localStorage como JSON. Luego recupéralo y conviértelo de nuevo a objeto.
 
